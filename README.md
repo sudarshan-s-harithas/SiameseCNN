@@ -11,3 +11,14 @@ As humans, we can recognize a person by his/her face by just meeting them once, 
 
 Enter Siamese Networks
 Siamese networks are a special type of neural network architecture. Instead of a model learning to classify its inputs, the neural networks learns to differentiate between two inputs. It learns the similarity between them.
+
+
+##References :
+
+
+https://becominghuman.ai/siamese-networks-algorithm-applications-and-pytorch-implementation-4ffa3304c18
+
+https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e
+
+
+
