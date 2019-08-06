@@ -13,7 +13,7 @@ Enter Siamese Networks
 Siamese networks are a special type of neural network architecture. Instead of a model learning to classify its inputs, the neural networks learns to differentiate between two inputs. It learns the similarity between them.
 
 
-##References :
+## References :
 
 
 https://becominghuman.ai/siamese-networks-algorithm-applications-and-pytorch-implementation-4ffa3304c18
