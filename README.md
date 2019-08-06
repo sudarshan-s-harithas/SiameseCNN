@@ -9,3 +9,5 @@ A nice example would be facial recognition. You would train a One Shot classific
 As humans, we can recognize a person by his/her face by just meeting them once, and it is desirable by computers because many times data is at a minimum.
 
 
+Enter Siamese Networks
+Siamese networks are a special type of neural network architecture. Instead of a model learning to classify its inputs, the neural networks learns to differentiate between two inputs. It learns the similarity between them.
